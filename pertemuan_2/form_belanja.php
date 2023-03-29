@@ -58,12 +58,13 @@
                     <li class="list-group-item">Tv : 4.200.000</li>
                     <li class="list-group-item">Kulkas : 3.100.000</li>
                     <li class="list-group-item">Mesin Cuci : 3.800.000</li>
-                    <li class="list-group-item active" aria-current="true">Harga Bapat Berubah Setiap Saat</li>
+                    <li class="list-group-item active" aria-current="true">Harga Dapat Berubah Setiap Saat</li>
                 </ul>
             </div>
         </div>
     </div>
 </body>
+
 </html>
 
 <?php
