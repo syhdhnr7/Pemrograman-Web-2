@@ -10,8 +10,11 @@
         <table class="table" width="100%" border="1" cellspacing="2" cellpadding="2">
             <thead>
                 <tr>
-                    <th>No</th><th>Kode</th><th>Nama</th>
-                    <th>Harga Jual</th><th>Qty</th>
+                    <th>No</th>
+                    <th>Kode</th>
+                    <th>Nama</th>
+                    <th>Harga Jual</th>
+                    <th>Qty</th>
                     <th>Action</th>
                 </tr>
             </thead>
